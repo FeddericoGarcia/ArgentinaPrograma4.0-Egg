@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
-        int num1, suma = 0, cont = 0, numNegative = 0;
+        int num1, suma = 0, cont = 0;
         do{
             System.out.println("Ingresa un número: ");
             num1 = leer.nextInt();
