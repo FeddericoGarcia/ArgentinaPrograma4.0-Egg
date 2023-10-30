@@ -1,7 +1,7 @@
 # ArgentinaPrograma4.0
 
 
-### FULL STACK JUNIOR
+### FULL STACK DEVELOPER
 Plan nacional, federal e inclusivo de formación en programación y software.
 El programa es impulsado por el Ministerio de Economía de la Nación con apoyo de un consejo consultivo especializado.
 
@@ -31,7 +31,7 @@ Los ejercicios realizados son subidos a medida que se va completando el curso.
 
     2 ─ BACKEND (JAVA) 1
 
-        └ GIT
+        └ GIT / GitHub
         └ Java
         └ POO
 
@@ -47,17 +47,14 @@ Los ejercicios realizados son subidos a medida que se va completando el curso.
         └ JPA
         └ JDBC
 
-    5 ─ FRONTEND
+    5 ─ FRONTEND 1
 
         └ HTML
         └ CSS
+        └ Bootstrap
 
-    6 ─ FULL STACK 
+    6 ─ FRONTEND 2 
 
-        └ Spring
-
-    7 ─ PROYECTO INTEGRADOR
-
-        └ Portfolio
-
-   
+        └ JavaScript
+        └ React
+  
