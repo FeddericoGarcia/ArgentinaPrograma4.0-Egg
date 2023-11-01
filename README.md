@@ -14,10 +14,9 @@ Dictado por la corporación Egg .
 #
 
 
-En este repositorio vas a poder encontrar todos los ejercicios realizados mediante la cursada Full Stack Developer Junior por la corporación educativa Egg, quien
-imparte el curso por medio de metodologia cooperativa y sincronica.
+En este repositorio vas a poder encontrar todos los ejercicios realizados mediante la cursada Full Stack JAVA Developer por la corporación educativa Egg, quien
+imparte el curso por medio de metodologia cooperativa y sincronica, para lograr desarrollar las habilidades blandas necesarias en entornos reales. 
 
-Los ejercicios realizados son subidos a medida que se va completando el curso.
 
 #
 
